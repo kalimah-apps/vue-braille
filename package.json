@@ -1,7 +1,7 @@
 {
   "name": "vue-braille",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Convert text into Braille using Vue",
   "main": "dist/vue-braille.ssr.js",
   "module": "dist/vue-braille.esm.js",
   "unpkg": "dist/vue-braille.min.js",
@@ -27,5 +27,11 @@
     "rollup-plugin-vue": "^5.0.0",
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10"
+  },
+  "license": "(MIT OR Apache-2.0)",
+  "keywords": ["braille", "vue", "vue plugin"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalimah-apps/vue-braille.git"
   }
 }
