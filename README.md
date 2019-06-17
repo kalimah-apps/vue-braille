@@ -6,7 +6,7 @@
 
 Convert text into Braille using Vue
 
-#Demo
+# Demo
 
 [https://codepen.io/khr2003/pen/QXNYeP](https://codepen.io/khr2003/pen/QXNYeP)
 
