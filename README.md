@@ -7,6 +7,7 @@
 Convert text into Braille using Vue
 
 #Demo
+
 [https://codepen.io/khr2003/pen/QXNYeP](https://codepen.io/khr2003/pen/QXNYeP)
 
 
@@ -49,6 +50,11 @@ Vue.use(VueBraille)
 Just add the this code:
 ```
 <vue-braille>TEXT HERE</vue-braille>
+```
+
+with props:
+```
+<vue-braille design='style2' size='20' show-tip='true'>TEXT HERE</vue-braille>
 ```
 
 
